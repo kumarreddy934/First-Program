@@ -27,6 +27,6 @@ class NEFTTransfer(FundTranser):
         print('your current balance : ',self.balance)
 
 
-ne=NEFTTransfer(1234556789,123456)
+ne=NEFTTransfer(9362456123,123456)
 ne.display_balance()
 ne.tranfser(123)
