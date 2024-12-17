@@ -24,7 +24,7 @@ class NEFTTransfer(FundTranser):
         print('your current balance : ',self.balance)
     
     def display_balance(self):
-        print('your current balance : ',self.balance)
+        print('your current balance is : ',self.balance)
 
 
 ne=NEFTTransfer(9362456123,123456)
